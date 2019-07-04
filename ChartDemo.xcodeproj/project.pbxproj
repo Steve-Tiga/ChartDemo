@@ -7,6 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04211A4A22CD9146008F8A69 /* BarChartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A4922CD9146008F8A69 /* BarChartViewController.m */; };
+		04211A4D22CD9161008F8A69 /* PieChartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A4C22CD9161008F8A69 /* PieChartViewController.m */; };
+		04211A5022CD9179008F8A69 /* LineChart1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A4F22CD9179008F8A69 /* LineChart1ViewController.m */; };
+		04211A9322CD921F008F8A69 /* AAJSFiles.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 04211A5222CD921E008F8A69 /* AAJSFiles.bundle */; };
+		04211A9422CD921F008F8A69 /* AAAreaspline.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A5522CD921E008F8A69 /* AAAreaspline.m */; };
+		04211A9522CD921F008F8A69 /* AALabels.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A5722CD921E008F8A69 /* AALabels.m */; };
+		04211A9622CD921F008F8A69 /* AASeries.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A5A22CD921E008F8A69 /* AASeries.m */; };
+		04211A9722CD921F008F8A69 /* AAXAxis.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A5B22CD921E008F8A69 /* AAXAxis.m */; };
+		04211A9822CD921F008F8A69 /* AAPlotOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A5C22CD921E008F8A69 /* AAPlotOptions.m */; };
+		04211A9922CD921F008F8A69 /* AADataLabels.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A5D22CD921E008F8A69 /* AADataLabels.m */; };
+		04211A9A22CD921F008F8A69 /* AAPlotBandsElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A5E22CD921E008F8A69 /* AAPlotBandsElement.m */; };
+		04211A9B22CD921F008F8A69 /* AALine.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A5F22CD921E008F8A69 /* AALine.m */; };
+		04211A9C22CD921F008F8A69 /* AATooltip.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A6222CD921E008F8A69 /* AATooltip.m */; };
+		04211A9D22CD921F008F8A69 /* AAYAxis.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A6522CD921E008F8A69 /* AAYAxis.m */; };
+		04211A9E22CD921F008F8A69 /* AACrosshair.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A6622CD921E008F8A69 /* AACrosshair.m */; };
+		04211A9F22CD921F008F8A69 /* AAColumn.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A6A22CD921F008F8A69 /* AAColumn.m */; };
+		04211AA022CD921F008F8A69 /* AAPlotLinesElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A6B22CD921F008F8A69 /* AAPlotLinesElement.m */; };
+		04211AA122CD921F008F8A69 /* AAStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A6E22CD921F008F8A69 /* AAStyle.m */; };
+		04211AA222CD921F008F8A69 /* AABar.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A6F22CD921F008F8A69 /* AABar.m */; };
+		04211AA322CD921F008F8A69 /* AATitle.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A7022CD921F008F8A69 /* AATitle.m */; };
+		04211AA422CD921F008F8A69 /* AAArea.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A7322CD921F008F8A69 /* AAArea.m */; };
+		04211AA522CD921F008F8A69 /* AAAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A7422CD921F008F8A69 /* AAAnimation.m */; };
+		04211AA622CD921F008F8A69 /* AALabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A7522CD921F008F8A69 /* AALabel.m */; };
+		04211AA722CD921F008F8A69 /* AALegend.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A7622CD921F008F8A69 /* AALegend.m */; };
+		04211AA822CD921F008F8A69 /* AAMarker.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A7822CD921F008F8A69 /* AAMarker.m */; };
+		04211AA922CD921F008F8A69 /* AASpline.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A7D22CD921F008F8A69 /* AASpline.m */; };
+		04211AAA22CD921F008F8A69 /* AAPie.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A7E22CD921F008F8A69 /* AAPie.m */; };
+		04211AAB22CD921F008F8A69 /* AAChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A8322CD921F008F8A69 /* AAChart.m */; };
+		04211AAC22CD921F008F8A69 /* AAChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A8622CD921F008F8A69 /* AAChartView.m */; };
+		04211AAD22CD921F008F8A69 /* AAChartModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A8B22CD921F008F8A69 /* AAChartModel.m */; };
+		04211AAE22CD921F008F8A69 /* AAOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A8D22CD921F008F8A69 /* AAOptions.m */; };
+		04211AAF22CD921F008F8A69 /* AASeriesElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A8E22CD921F008F8A69 /* AASeriesElement.m */; };
+		04211AB022CD921F008F8A69 /* AAColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A9022CD921F008F8A69 /* AAColor.m */; };
+		04211AB122CD921F008F8A69 /* AAGradientColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211A9122CD921F008F8A69 /* AAGradientColor.m */; };
+		04211AB522CDA627008F8A69 /* ConstTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 04211AB422CDA627008F8A69 /* ConstTool.m */; };
 		04DB284922CCB49B00DD377A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DB284822CCB49B00DD377A /* AppDelegate.m */; };
 		04DB284C22CCB49B00DD377A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DB284B22CCB49B00DD377A /* ViewController.m */; };
 		04DB284F22CCB49B00DD377A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04DB284D22CCB49B00DD377A /* Main.storyboard */; };
@@ -15,6 +50,9 @@
 		04DB285722CCB49E00DD377A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DB285622CCB49E00DD377A /* main.m */; };
 		04DB286122CCB49E00DD377A /* ChartDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DB286022CCB49E00DD377A /* ChartDemoTests.m */; };
 		04DB286C22CCB49E00DD377A /* ChartDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DB286B22CCB49E00DD377A /* ChartDemoUITests.m */; };
+		5C2DF8CF73182602EAE12F10 /* libPods-ChartDemoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 148F10F4B0B9A4306A42E6A5 /* libPods-ChartDemoTests.a */; };
+		A93A77CF686D7B1DB99FB0D2 /* libPods-ChartDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 955A5DB65736309D5C398745 /* libPods-ChartDemo.a */; };
+		B25EFC4E0914130537DC0369 /* libPods-ChartDemoUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 96CDFFBD6F080C5E35BCBFA5 /* libPods-ChartDemoUITests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +73,78 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		04211A4822CD9146008F8A69 /* BarChartViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BarChartViewController.h; sourceTree = "<group>"; };
+		04211A4922CD9146008F8A69 /* BarChartViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BarChartViewController.m; sourceTree = "<group>"; };
+		04211A4B22CD9161008F8A69 /* PieChartViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PieChartViewController.h; sourceTree = "<group>"; };
+		04211A4C22CD9161008F8A69 /* PieChartViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PieChartViewController.m; sourceTree = "<group>"; };
+		04211A4E22CD9179008F8A69 /* LineChart1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LineChart1ViewController.h; sourceTree = "<group>"; };
+		04211A4F22CD9179008F8A69 /* LineChart1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LineChart1ViewController.m; sourceTree = "<group>"; };
+		04211A5222CD921E008F8A69 /* AAJSFiles.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = AAJSFiles.bundle; sourceTree = "<group>"; };
+		04211A5422CD921E008F8A69 /* AAArea.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAArea.h; sourceTree = "<group>"; };
+		04211A5522CD921E008F8A69 /* AAAreaspline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAAreaspline.m; sourceTree = "<group>"; };
+		04211A5622CD921E008F8A69 /* AATitle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AATitle.h; sourceTree = "<group>"; };
+		04211A5722CD921E008F8A69 /* AALabels.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AALabels.m; sourceTree = "<group>"; };
+		04211A5822CD921E008F8A69 /* AAStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAStyle.h; sourceTree = "<group>"; };
+		04211A5922CD921E008F8A69 /* AABar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AABar.h; sourceTree = "<group>"; };
+		04211A5A22CD921E008F8A69 /* AASeries.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AASeries.m; sourceTree = "<group>"; };
+		04211A5B22CD921E008F8A69 /* AAXAxis.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAXAxis.m; sourceTree = "<group>"; };
+		04211A5C22CD921E008F8A69 /* AAPlotOptions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPlotOptions.m; sourceTree = "<group>"; };
+		04211A5D22CD921E008F8A69 /* AADataLabels.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AADataLabels.m; sourceTree = "<group>"; };
+		04211A5E22CD921E008F8A69 /* AAPlotBandsElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPlotBandsElement.m; sourceTree = "<group>"; };
+		04211A5F22CD921E008F8A69 /* AALine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AALine.m; sourceTree = "<group>"; };
+		04211A6022CD921E008F8A69 /* AAMarker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAMarker.h; sourceTree = "<group>"; };
+		04211A6122CD921E008F8A69 /* AALegend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AALegend.h; sourceTree = "<group>"; };
+		04211A6222CD921E008F8A69 /* AATooltip.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AATooltip.m; sourceTree = "<group>"; };
+		04211A6322CD921E008F8A69 /* AALabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AALabel.h; sourceTree = "<group>"; };
+		04211A6422CD921E008F8A69 /* AAAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAAnimation.h; sourceTree = "<group>"; };
+		04211A6522CD921E008F8A69 /* AAYAxis.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAYAxis.m; sourceTree = "<group>"; };
+		04211A6622CD921E008F8A69 /* AACrosshair.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AACrosshair.m; sourceTree = "<group>"; };
+		04211A6722CD921E008F8A69 /* AAPie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPie.h; sourceTree = "<group>"; };
+		04211A6822CD921F008F8A69 /* AASpline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AASpline.h; sourceTree = "<group>"; };
+		04211A6922CD921F008F8A69 /* AAChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChart.h; sourceTree = "<group>"; };
+		04211A6A22CD921F008F8A69 /* AAColumn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAColumn.m; sourceTree = "<group>"; };
+		04211A6B22CD921F008F8A69 /* AAPlotLinesElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPlotLinesElement.m; sourceTree = "<group>"; };
+		04211A6C22CD921F008F8A69 /* AAXAxis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAXAxis.h; sourceTree = "<group>"; };
+		04211A6D22CD921F008F8A69 /* AASeries.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AASeries.h; sourceTree = "<group>"; };
+		04211A6E22CD921F008F8A69 /* AAStyle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAStyle.m; sourceTree = "<group>"; };
+		04211A6F22CD921F008F8A69 /* AABar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AABar.m; sourceTree = "<group>"; };
+		04211A7022CD921F008F8A69 /* AATitle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AATitle.m; sourceTree = "<group>"; };
+		04211A7122CD921F008F8A69 /* AALabels.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AALabels.h; sourceTree = "<group>"; };
+		04211A7222CD921F008F8A69 /* AAAreaspline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAAreaspline.h; sourceTree = "<group>"; };
+		04211A7322CD921F008F8A69 /* AAArea.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAArea.m; sourceTree = "<group>"; };
+		04211A7422CD921F008F8A69 /* AAAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAAnimation.m; sourceTree = "<group>"; };
+		04211A7522CD921F008F8A69 /* AALabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AALabel.m; sourceTree = "<group>"; };
+		04211A7622CD921F008F8A69 /* AALegend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AALegend.m; sourceTree = "<group>"; };
+		04211A7722CD921F008F8A69 /* AATooltip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AATooltip.h; sourceTree = "<group>"; };
+		04211A7822CD921F008F8A69 /* AAMarker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAMarker.m; sourceTree = "<group>"; };
+		04211A7922CD921F008F8A69 /* AALine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AALine.h; sourceTree = "<group>"; };
+		04211A7A22CD921F008F8A69 /* AAPlotBandsElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPlotBandsElement.h; sourceTree = "<group>"; };
+		04211A7B22CD921F008F8A69 /* AADataLabels.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AADataLabels.h; sourceTree = "<group>"; };
+		04211A7C22CD921F008F8A69 /* AAPlotOptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPlotOptions.h; sourceTree = "<group>"; };
+		04211A7D22CD921F008F8A69 /* AASpline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AASpline.m; sourceTree = "<group>"; };
+		04211A7E22CD921F008F8A69 /* AAPie.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPie.m; sourceTree = "<group>"; };
+		04211A7F22CD921F008F8A69 /* AACrosshair.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AACrosshair.h; sourceTree = "<group>"; };
+		04211A8022CD921F008F8A69 /* AAYAxis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAYAxis.h; sourceTree = "<group>"; };
+		04211A8122CD921F008F8A69 /* AAPlotLinesElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPlotLinesElement.h; sourceTree = "<group>"; };
+		04211A8222CD921F008F8A69 /* AAColumn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAColumn.h; sourceTree = "<group>"; };
+		04211A8322CD921F008F8A69 /* AAChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAChart.m; sourceTree = "<group>"; };
+		04211A8522CD921F008F8A69 /* AAOptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAOptions.h; sourceTree = "<group>"; };
+		04211A8622CD921F008F8A69 /* AAChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAChartView.m; sourceTree = "<group>"; };
+		04211A8722CD921F008F8A69 /* AAGlobalMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAGlobalMacro.h; sourceTree = "<group>"; };
+		04211A8822CD921F008F8A69 /* AASeriesElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AASeriesElement.h; sourceTree = "<group>"; };
+		04211A8922CD921F008F8A69 /* AAGradientColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAGradientColor.h; sourceTree = "<group>"; };
+		04211A8A22CD921F008F8A69 /* AAColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAColor.h; sourceTree = "<group>"; };
+		04211A8B22CD921F008F8A69 /* AAChartModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAChartModel.m; sourceTree = "<group>"; };
+		04211A8C22CD921F008F8A69 /* AAChartKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChartKit.h; sourceTree = "<group>"; };
+		04211A8D22CD921F008F8A69 /* AAOptions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAOptions.m; sourceTree = "<group>"; };
+		04211A8E22CD921F008F8A69 /* AASeriesElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AASeriesElement.m; sourceTree = "<group>"; };
+		04211A8F22CD921F008F8A69 /* AAChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChartView.h; sourceTree = "<group>"; };
+		04211A9022CD921F008F8A69 /* AAColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAColor.m; sourceTree = "<group>"; };
+		04211A9122CD921F008F8A69 /* AAGradientColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAGradientColor.m; sourceTree = "<group>"; };
+		04211A9222CD921F008F8A69 /* AAChartModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChartModel.h; sourceTree = "<group>"; };
+		04211AB222CD9827008F8A69 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		04211AB322CDA627008F8A69 /* ConstTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConstTool.h; sourceTree = "<group>"; };
+		04211AB422CDA627008F8A69 /* ConstTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ConstTool.m; sourceTree = "<group>"; };
 		04DB284422CCB49B00DD377A /* ChartDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChartDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04DB284722CCB49B00DD377A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		04DB284822CCB49B00DD377A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -51,6 +161,15 @@
 		04DB286722CCB49E00DD377A /* ChartDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChartDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04DB286B22CCB49E00DD377A /* ChartDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChartDemoUITests.m; sourceTree = "<group>"; };
 		04DB286D22CCB49E00DD377A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		148F10F4B0B9A4306A42E6A5 /* libPods-ChartDemoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ChartDemoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3AFD1A94971B9631EA5D664A /* Pods-ChartDemoUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartDemoUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ChartDemoUITests/Pods-ChartDemoUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		4A3389ACA830C9156E40712E /* Pods-ChartDemoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartDemoTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ChartDemoTests/Pods-ChartDemoTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4C43F736AEBC0C3D3125BC2E /* Pods-ChartDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartDemoTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChartDemoTests/Pods-ChartDemoTests.release.xcconfig"; sourceTree = "<group>"; };
+		68D2391AD820485F7A4ECF9C /* Pods-ChartDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ChartDemo/Pods-ChartDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		955A5DB65736309D5C398745 /* libPods-ChartDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ChartDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		96CDFFBD6F080C5E35BCBFA5 /* libPods-ChartDemoUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ChartDemoUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCF7837AAAB855C618908574 /* Pods-ChartDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChartDemo/Pods-ChartDemo.release.xcconfig"; sourceTree = "<group>"; };
+		D022D08D5BFCA2CF3CD8AFAB /* Pods-ChartDemoUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartDemoUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChartDemoUITests/Pods-ChartDemoUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +177,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A93A77CF686D7B1DB99FB0D2 /* libPods-ChartDemo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +185,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C2DF8CF73182602EAE12F10 /* libPods-ChartDemoTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,19 +193,109 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B25EFC4E0914130537DC0369 /* libPods-ChartDemoUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		04211A5122CD921E008F8A69 /* AAChartKitLib */ = {
+			isa = PBXGroup;
+			children = (
+				04211A5222CD921E008F8A69 /* AAJSFiles.bundle */,
+				04211A5322CD921E008F8A69 /* AAOptionsModel */,
+				04211A8422CD921F008F8A69 /* AAChartConfiger */,
+			);
+			path = AAChartKitLib;
+			sourceTree = "<group>";
+		};
+		04211A5322CD921E008F8A69 /* AAOptionsModel */ = {
+			isa = PBXGroup;
+			children = (
+				04211A5422CD921E008F8A69 /* AAArea.h */,
+				04211A5522CD921E008F8A69 /* AAAreaspline.m */,
+				04211A5622CD921E008F8A69 /* AATitle.h */,
+				04211A5722CD921E008F8A69 /* AALabels.m */,
+				04211A5822CD921E008F8A69 /* AAStyle.h */,
+				04211A5922CD921E008F8A69 /* AABar.h */,
+				04211A5A22CD921E008F8A69 /* AASeries.m */,
+				04211A5B22CD921E008F8A69 /* AAXAxis.m */,
+				04211A5C22CD921E008F8A69 /* AAPlotOptions.m */,
+				04211A5D22CD921E008F8A69 /* AADataLabels.m */,
+				04211A5E22CD921E008F8A69 /* AAPlotBandsElement.m */,
+				04211A5F22CD921E008F8A69 /* AALine.m */,
+				04211A6022CD921E008F8A69 /* AAMarker.h */,
+				04211A6122CD921E008F8A69 /* AALegend.h */,
+				04211A6222CD921E008F8A69 /* AATooltip.m */,
+				04211A6322CD921E008F8A69 /* AALabel.h */,
+				04211A6422CD921E008F8A69 /* AAAnimation.h */,
+				04211A6522CD921E008F8A69 /* AAYAxis.m */,
+				04211A6622CD921E008F8A69 /* AACrosshair.m */,
+				04211A6722CD921E008F8A69 /* AAPie.h */,
+				04211A6822CD921F008F8A69 /* AASpline.h */,
+				04211A6922CD921F008F8A69 /* AAChart.h */,
+				04211A6A22CD921F008F8A69 /* AAColumn.m */,
+				04211A6B22CD921F008F8A69 /* AAPlotLinesElement.m */,
+				04211A6C22CD921F008F8A69 /* AAXAxis.h */,
+				04211A6D22CD921F008F8A69 /* AASeries.h */,
+				04211A6E22CD921F008F8A69 /* AAStyle.m */,
+				04211A6F22CD921F008F8A69 /* AABar.m */,
+				04211A7022CD921F008F8A69 /* AATitle.m */,
+				04211A7122CD921F008F8A69 /* AALabels.h */,
+				04211A7222CD921F008F8A69 /* AAAreaspline.h */,
+				04211A7322CD921F008F8A69 /* AAArea.m */,
+				04211A7422CD921F008F8A69 /* AAAnimation.m */,
+				04211A7522CD921F008F8A69 /* AALabel.m */,
+				04211A7622CD921F008F8A69 /* AALegend.m */,
+				04211A7722CD921F008F8A69 /* AATooltip.h */,
+				04211A7822CD921F008F8A69 /* AAMarker.m */,
+				04211A7922CD921F008F8A69 /* AALine.h */,
+				04211A7A22CD921F008F8A69 /* AAPlotBandsElement.h */,
+				04211A7B22CD921F008F8A69 /* AADataLabels.h */,
+				04211A7C22CD921F008F8A69 /* AAPlotOptions.h */,
+				04211A7D22CD921F008F8A69 /* AASpline.m */,
+				04211A7E22CD921F008F8A69 /* AAPie.m */,
+				04211A7F22CD921F008F8A69 /* AACrosshair.h */,
+				04211A8022CD921F008F8A69 /* AAYAxis.h */,
+				04211A8122CD921F008F8A69 /* AAPlotLinesElement.h */,
+				04211A8222CD921F008F8A69 /* AAColumn.h */,
+				04211A8322CD921F008F8A69 /* AAChart.m */,
+			);
+			path = AAOptionsModel;
+			sourceTree = "<group>";
+		};
+		04211A8422CD921F008F8A69 /* AAChartConfiger */ = {
+			isa = PBXGroup;
+			children = (
+				04211A8522CD921F008F8A69 /* AAOptions.h */,
+				04211A8622CD921F008F8A69 /* AAChartView.m */,
+				04211A8722CD921F008F8A69 /* AAGlobalMacro.h */,
+				04211A8822CD921F008F8A69 /* AASeriesElement.h */,
+				04211A8922CD921F008F8A69 /* AAGradientColor.h */,
+				04211A8A22CD921F008F8A69 /* AAColor.h */,
+				04211A8B22CD921F008F8A69 /* AAChartModel.m */,
+				04211A8C22CD921F008F8A69 /* AAChartKit.h */,
+				04211A8D22CD921F008F8A69 /* AAOptions.m */,
+				04211A8E22CD921F008F8A69 /* AASeriesElement.m */,
+				04211A8F22CD921F008F8A69 /* AAChartView.h */,
+				04211A9022CD921F008F8A69 /* AAColor.m */,
+				04211A9122CD921F008F8A69 /* AAGradientColor.m */,
+				04211A9222CD921F008F8A69 /* AAChartModel.h */,
+			);
+			path = AAChartConfiger;
+			sourceTree = "<group>";
+		};
 		04DB283B22CCB49B00DD377A = {
 			isa = PBXGroup;
 			children = (
+				04211A5122CD921E008F8A69 /* AAChartKitLib */,
 				04DB284622CCB49B00DD377A /* ChartDemo */,
 				04DB285F22CCB49E00DD377A /* ChartDemoTests */,
 				04DB286A22CCB49E00DD377A /* ChartDemoUITests */,
 				04DB284522CCB49B00DD377A /* Products */,
+				4F5D0E63AA7EE0016B2F7769 /* Pods */,
+				9D9A55457E876B9AEBB9D594 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -103,9 +314,18 @@
 			children = (
 				04DB284722CCB49B00DD377A /* AppDelegate.h */,
 				04DB284822CCB49B00DD377A /* AppDelegate.m */,
+				04211AB222CD9827008F8A69 /* PrefixHeader.pch */,
 				04DB284A22CCB49B00DD377A /* ViewController.h */,
 				04DB284B22CCB49B00DD377A /* ViewController.m */,
 				04DB284D22CCB49B00DD377A /* Main.storyboard */,
+				04211A4822CD9146008F8A69 /* BarChartViewController.h */,
+				04211A4922CD9146008F8A69 /* BarChartViewController.m */,
+				04211A4B22CD9161008F8A69 /* PieChartViewController.h */,
+				04211A4C22CD9161008F8A69 /* PieChartViewController.m */,
+				04211A4E22CD9179008F8A69 /* LineChart1ViewController.h */,
+				04211A4F22CD9179008F8A69 /* LineChart1ViewController.m */,
+				04211AB322CDA627008F8A69 /* ConstTool.h */,
+				04211AB422CDA627008F8A69 /* ConstTool.m */,
 				04DB285022CCB49E00DD377A /* Assets.xcassets */,
 				04DB285222CCB49E00DD377A /* LaunchScreen.storyboard */,
 				04DB285522CCB49E00DD377A /* Info.plist */,
@@ -132,6 +352,29 @@
 			path = ChartDemoUITests;
 			sourceTree = "<group>";
 		};
+		4F5D0E63AA7EE0016B2F7769 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				68D2391AD820485F7A4ECF9C /* Pods-ChartDemo.debug.xcconfig */,
+				CCF7837AAAB855C618908574 /* Pods-ChartDemo.release.xcconfig */,
+				4A3389ACA830C9156E40712E /* Pods-ChartDemoTests.debug.xcconfig */,
+				4C43F736AEBC0C3D3125BC2E /* Pods-ChartDemoTests.release.xcconfig */,
+				3AFD1A94971B9631EA5D664A /* Pods-ChartDemoUITests.debug.xcconfig */,
+				D022D08D5BFCA2CF3CD8AFAB /* Pods-ChartDemoUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		9D9A55457E876B9AEBB9D594 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				955A5DB65736309D5C398745 /* libPods-ChartDemo.a */,
+				148F10F4B0B9A4306A42E6A5 /* libPods-ChartDemoTests.a */,
+				96CDFFBD6F080C5E35BCBFA5 /* libPods-ChartDemoUITests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -139,6 +382,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 04DB287022CCB49E00DD377A /* Build configuration list for PBXNativeTarget "ChartDemo" */;
 			buildPhases = (
+				D6F98729AE545D517C086219 /* [CP] Check Pods Manifest.lock */,
 				04DB284022CCB49B00DD377A /* Sources */,
 				04DB284122CCB49B00DD377A /* Frameworks */,
 				04DB284222CCB49B00DD377A /* Resources */,
@@ -156,6 +400,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 04DB287322CCB49E00DD377A /* Build configuration list for PBXNativeTarget "ChartDemoTests" */;
 			buildPhases = (
+				0E09F0FFBAFA57FC78654F88 /* [CP] Check Pods Manifest.lock */,
 				04DB285822CCB49E00DD377A /* Sources */,
 				04DB285922CCB49E00DD377A /* Frameworks */,
 				04DB285A22CCB49E00DD377A /* Resources */,
@@ -174,6 +419,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 04DB287622CCB49E00DD377A /* Build configuration list for PBXNativeTarget "ChartDemoUITests" */;
 			buildPhases = (
+				C55F23549732239002D0CB7A /* [CP] Check Pods Manifest.lock */,
 				04DB286322CCB49E00DD377A /* Sources */,
 				04DB286422CCB49E00DD377A /* Frameworks */,
 				04DB286522CCB49E00DD377A /* Resources */,
@@ -237,6 +483,7 @@
 			files = (
 				04DB285422CCB49E00DD377A /* LaunchScreen.storyboard in Resources */,
 				04DB285122CCB49E00DD377A /* Assets.xcassets in Resources */,
+				04211A9322CD921F008F8A69 /* AAJSFiles.bundle in Resources */,
 				04DB284F22CCB49B00DD377A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -257,14 +504,117 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		0E09F0FFBAFA57FC78654F88 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ChartDemoTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C55F23549732239002D0CB7A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ChartDemoUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D6F98729AE545D517C086219 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ChartDemo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		04DB284022CCB49B00DD377A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04211AA722CD921F008F8A69 /* AALegend.m in Sources */,
+				04211A9922CD921F008F8A69 /* AADataLabels.m in Sources */,
 				04DB284C22CCB49B00DD377A /* ViewController.m in Sources */,
+				04211A9722CD921F008F8A69 /* AAXAxis.m in Sources */,
+				04211AAC22CD921F008F8A69 /* AAChartView.m in Sources */,
+				04211AA122CD921F008F8A69 /* AAStyle.m in Sources */,
+				04211AAA22CD921F008F8A69 /* AAPie.m in Sources */,
+				04211A9F22CD921F008F8A69 /* AAColumn.m in Sources */,
+				04211AA922CD921F008F8A69 /* AASpline.m in Sources */,
+				04211A5022CD9179008F8A69 /* LineChart1ViewController.m in Sources */,
+				04211A9D22CD921F008F8A69 /* AAYAxis.m in Sources */,
+				04211AAB22CD921F008F8A69 /* AAChart.m in Sources */,
+				04211A9822CD921F008F8A69 /* AAPlotOptions.m in Sources */,
+				04211A9522CD921F008F8A69 /* AALabels.m in Sources */,
+				04211AAD22CD921F008F8A69 /* AAChartModel.m in Sources */,
+				04211AB122CD921F008F8A69 /* AAGradientColor.m in Sources */,
+				04211A4A22CD9146008F8A69 /* BarChartViewController.m in Sources */,
+				04211AB522CDA627008F8A69 /* ConstTool.m in Sources */,
+				04211AA322CD921F008F8A69 /* AATitle.m in Sources */,
+				04211A4D22CD9161008F8A69 /* PieChartViewController.m in Sources */,
+				04211A9422CD921F008F8A69 /* AAAreaspline.m in Sources */,
+				04211AAE22CD921F008F8A69 /* AAOptions.m in Sources */,
+				04211A9B22CD921F008F8A69 /* AALine.m in Sources */,
+				04211AA822CD921F008F8A69 /* AAMarker.m in Sources */,
 				04DB285722CCB49E00DD377A /* main.m in Sources */,
+				04211A9622CD921F008F8A69 /* AASeries.m in Sources */,
+				04211AA222CD921F008F8A69 /* AABar.m in Sources */,
+				04211AA022CD921F008F8A69 /* AAPlotLinesElement.m in Sources */,
+				04211AA522CD921F008F8A69 /* AAAnimation.m in Sources */,
+				04211AB022CD921F008F8A69 /* AAColor.m in Sources */,
+				04211AAF22CD921F008F8A69 /* AASeriesElement.m in Sources */,
 				04DB284922CCB49B00DD377A /* AppDelegate.m in Sources */,
+				04211AA622CD921F008F8A69 /* AALabel.m in Sources */,
+				04211A9A22CD921F008F8A69 /* AAPlotBandsElement.m in Sources */,
+				04211A9C22CD921F008F8A69 /* AATooltip.m in Sources */,
+				04211A9E22CD921F008F8A69 /* AACrosshair.m in Sources */,
+				04211AA422CD921F008F8A69 /* AAArea.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,11 +783,14 @@
 		};
 		04DB287122CCB49E00DD377A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 68D2391AD820485F7A4ECF9C /* Pods-ChartDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4AMLBX7JS9;
+				GCC_PREFIX_HEADER = /Users/mac/Desktop/ChartDemo/ChartDemo/PrefixHeader.pch;
 				INFOPLIST_FILE = ChartDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -450,11 +803,14 @@
 		};
 		04DB287222CCB49E00DD377A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CCF7837AAAB855C618908574 /* Pods-ChartDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4AMLBX7JS9;
+				GCC_PREFIX_HEADER = /Users/mac/Desktop/ChartDemo/ChartDemo/PrefixHeader.pch;
 				INFOPLIST_FILE = ChartDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -467,6 +823,7 @@
 		};
 		04DB287422CCB49E00DD377A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4A3389ACA830C9156E40712E /* Pods-ChartDemoTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -486,6 +843,7 @@
 		};
 		04DB287522CCB49E00DD377A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4C43F736AEBC0C3D3125BC2E /* Pods-ChartDemoTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -505,6 +863,7 @@
 		};
 		04DB287722CCB49E00DD377A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3AFD1A94971B9631EA5D664A /* Pods-ChartDemoUITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4AMLBX7JS9;
@@ -523,6 +882,7 @@
 		};
 		04DB287822CCB49E00DD377A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D022D08D5BFCA2CF3CD8AFAB /* Pods-ChartDemoUITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4AMLBX7JS9;
